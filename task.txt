@@ -6,4 +6,8 @@ Topics
 4. pull request and forking
 5. branches and merges
 6. .gitignore
+7. Barca go lose
+
+Emmanuel was here
+Ifeanyi was here
 7. christopher
